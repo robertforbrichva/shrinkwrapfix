@@ -1,3 +1,2 @@
-xz,https://github.com/tukaani-project/xz/archive/refs/tags/v5.2.3.tar.gz --cmake dep/xz.cmake
 zstd,facebook/zstd@v1.3.2 --cmake dep/zstd.cmake
 zlib,http://zlib.net/fossils/zlib-1.2.11.tar.gz
