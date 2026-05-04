@@ -1,1 +1,0 @@
-zstd,facebook/zstd@v1.3.2 --cmake dep/zstd.cmake
