@@ -1,2 +1,1 @@
 zstd,facebook/zstd@v1.3.2 --cmake dep/zstd.cmake
-zlib,http://zlib.net/fossils/zlib-1.2.11.tar.gz
