@@ -8,7 +8,7 @@
 # ################################################################
 
 PROJECT(zstd)
-CMAKE_MINIMUM_REQUIRED(VERSION 2.8.9)
+CMAKE_MINIMUM_REQUIRED(VERSION 3.5)
 IF (BUILD_SHARED_LIBS)
     message("DISABLING STATIC")
     OPTION(ZSTD_BUILD_STATIC "must be shared" OFF)
